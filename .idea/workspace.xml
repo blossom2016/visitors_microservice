@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6aa1738c-2b84-451e-a4e2-d78aaebcef0a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+        <option value="HTTP Request" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/snap/go/current" />
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="minikube" />
+    <option name="namespace" value="default" />
+  </component>
+  <component name="ProjectId" id="1iBBWXj2BAxZmz8FNU3mDToDrjm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="DefaultGoTemplateProperty" value="Go Application" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="GoMoveDeclarationDialog.RECENT_KEY">
+      <recent name="$PROJECT_DIR$/handler" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="docker-deploy" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Remote.Debug Docker">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="visitors_microservice" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Debug Docker" type="GoRemoteDebugConfigurationType" factoryName="Go Remote" port="30804">
+      <method v="2" />
+    </configuration>
+    <configuration name="check#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/check.http" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-dev-debug" type="docker-deploy" factoryName="dockerfile" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="imageTag" value="docker-dev-debug:latest" />
+          <option name="buildCliOptions" value="" />
+          <option name="command" value="" />
+          <option name="containerName" value="" />
+          <option name="entrypoint" value="" />
+          <option name="commandLineOptions" value="" />
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-dev" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="imageTag" value="docker-dev:latest" />
+          <option name="buildCliOptions" value="" />
+          <option name="buildOnly" value="true" />
+          <option name="command" value="" />
+          <option name="containerName" value="" />
+          <option name="entrypoint" value="" />
+          <option name="commandLineOptions" value="" />
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Docker.docker-dev-debug" />
+      <item itemvalue="Docker.docker-dev" />
+      <item itemvalue="Go Build.go build main.go" />
+      <item itemvalue="Go Remote.Debug Docker" />
+      <item itemvalue="HTTP Request.check#1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.check#1" />
+        <item itemvalue="Docker.docker-dev" />
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6aa1738c-2b84-451e-a4e2-d78aaebcef0a" name="Default Changelist" comment="" />
+      <created>1601371140008</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601371140008</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="514" y="234" width="400" height="334" key="#Go_Modules" timestamp="1601371784088">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="514" y="234" width="400" height="334" key="#Go_Modules/72.27.1294.741@72.27.1294.741" timestamp="1601371784088" />
+    <state x="474" y="220" width="480" height="362" key="#New_Docker_Connection" timestamp="1601376861981">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="474" y="220" width="480" height="362" key="#New_Docker_Connection/72.27.1294.741@72.27.1294.741" timestamp="1601376861981" />
+    <state x="72" y="250" width="1284" height="301" key="#SQL_Dialects" timestamp="1601383073633">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="72" y="250" width="1284" height="301" key="#SQL_Dialects/72.27.1294.741@72.27.1294.741" timestamp="1601383073633" />
+    <state x="314" y="59" width="1031" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601399531076">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="314" y="59" width="1031" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1294.741@72.27.1294.741" timestamp="1601399531076" />
+    <state x="502" y="157" width="424" height="491" key="FileChooserDialogImpl" timestamp="1601376820555">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="502" y="157" width="424" height="491" key="FileChooserDialogImpl/72.27.1294.741@72.27.1294.741" timestamp="1601376820555" />
+    <state x="535" y="297" width="368" height="207" key="Github.ShareDialog" timestamp="1601403071209">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="535" y="297" width="368" height="207" key="Github.ShareDialog/72.27.1294.741@72.27.1294.741" timestamp="1601403071209" />
+    <state width="1248" height="215" key="GridCell.Tab.0.bottom" timestamp="1601402797471">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1248" height="215" key="GridCell.Tab.0.bottom/72.27.1294.741@72.27.1294.741" timestamp="1601402797471" />
+    <state width="1248" height="215" key="GridCell.Tab.0.center" timestamp="1601402797467">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1248" height="215" key="GridCell.Tab.0.center/72.27.1294.741@72.27.1294.741" timestamp="1601402797467" />
+    <state width="1248" height="215" key="GridCell.Tab.0.left" timestamp="1601402797467">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1248" height="215" key="GridCell.Tab.0.left/72.27.1294.741@72.27.1294.741" timestamp="1601402797467" />
+    <state width="1248" height="215" key="GridCell.Tab.0.right" timestamp="1601402797467">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1248" height="215" key="GridCell.Tab.0.right/72.27.1294.741@72.27.1294.741" timestamp="1601402797467" />
+    <state width="1248" height="215" key="GridCell.Tab.1.bottom" timestamp="1601402797473">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1248" height="215" key="GridCell.Tab.1.bottom/72.27.1294.741@72.27.1294.741" timestamp="1601402797473" />
+    <state width="1248" height="215" key="GridCell.Tab.1.center" timestamp="1601402797473">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1248" height="215" key="GridCell.Tab.1.center/72.27.1294.741@72.27.1294.741" timestamp="1601402797473" />
+    <state width="1248" height="215" key="GridCell.Tab.1.left" timestamp="1601402797471">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1248" height="215" key="GridCell.Tab.1.left/72.27.1294.741@72.27.1294.741" timestamp="1601402797471" />
+    <state width="1248" height="215" key="GridCell.Tab.1.right" timestamp="1601402797473">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1248" height="215" key="GridCell.Tab.1.right/72.27.1294.741@72.27.1294.741" timestamp="1601402797473" />
+    <state x="208" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1601377298893">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="208" y="31" width="1022" height="737" key="SettingsEditor/72.27.1294.741@72.27.1294.741" timestamp="1601377298893" />
+    <state x="480" y="246" width="467" height="310" key="com.goide.refactor.move.GoMoveDeclarationDialog" timestamp="1601400710360">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="480" y="246" width="467" height="310" key="com.goide.refactor.move.GoMoveDeclarationDialog/72.27.1294.741@72.27.1294.741" timestamp="1601400710360" />
+    <state x="553" y="169" width="321" height="464" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1601380337460">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="553" y="169" width="321" height="464" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/72.27.1294.741@72.27.1294.741" timestamp="1601380337460" />
+    <state x="245" y="109" width="938" height="583" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1601398856141">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="245" y="109" width="938" height="583" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/72.27.1294.741@72.27.1294.741" timestamp="1601398856141" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/main.go</url>
+          <line>25</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
